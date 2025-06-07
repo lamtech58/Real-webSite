@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "lhp.lamtech.unikom",
+    "sha256_cert_fingerprints": ["82:af:f6:be:29:9b:e2:2c:73:10:78:1c:e5:1a:36:bd:bd:fc:14:00", "ce:db:e1:b3:65:3f:45:2f:42:d1:5c:d6:57:0e:d7:1d:0a:d1:99:77"]
+  }
+}]
